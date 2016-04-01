@@ -5,7 +5,7 @@ Picture: See NFC.pdf
 Description: A mobile interface to track landscaping and infrastructure in residential neighborhoods.
 Techologies: Qt
 SS/Mockup: See NFC.pdf
-Installation: hmmm, not quite there but maybe through the app store on Android.
+Installation: hmmm, not quite there but maybe through the app store on Android or iOS.
 Contribution Guidelines: Various "learning the language"-type errors
 Bugs/TODO: Everything.
 Contributors: Ray Larzelere
