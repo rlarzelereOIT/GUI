@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>bicepsisalwayswithyou.mp3</file>
+        <file>MyVPButton.qml</file>
+        <file>MyVPTextRect.qml</file>
+        <file>MyVPDialogue.qml</file>
+        <file>Ash_Tree.jpg</file>
+    </qresource>
+</RCC>
